@@ -67,7 +67,11 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201733115-d09d313b-9db6-43ac-be4b-9f6be36ea92b.png)
 
--**Re
+-**Refactorització en tot el projecte:** permet actualitzar el codi de manera segura i eficaç, simplificant-lo i fent-lo més llegible i fàcil de mantenir.
+
+![image](https://user-images.githubusercontent.com/114908591/201733757-3e02977b-10d4-452c-af3a-e1373cdeb9f1.png)
+
+
 
 
 
