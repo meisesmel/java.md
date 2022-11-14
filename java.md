@@ -37,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201714622-0eeff862-dfaa-4132-8d54-4d537eda81d6.png)
 
-- **Accesibilidad:** IntelliJ IDEA permet habilitar diverses funcionalitats d'accessibilitat que s'adapten a les nostres necessitats. Es pot configurar els colors de diferents elements de la interfície d'usuari, canviar la mida de les finestres d'eines i la mida del text a l'editor, etc.
+- **Accesibilitat:** IntelliJ IDEA permet habilitar diverses funcionalitats d'accessibilitat que s'adapten a les nostres necessitats. Es pot configurar els colors de diferents elements de la interfície d'usuari, canviar la mida de les finestres d'eines i la mida del text a l'editor, etc.
 
 ![image](https://user-images.githubusercontent.com/114908591/201717280-25106f47-8cd6-454a-8221-1bc92dac085e.png)
 
