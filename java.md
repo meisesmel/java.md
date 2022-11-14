@@ -59,15 +59,15 @@
 
 ![image](https://user-images.githubusercontent.com/114908591/201732073-b9288922-e1fa-42c3-932d-fbdc09f9b5ab.png)
 
--**Diagrames:** aquest programa compta amb diagrames que t'ajuden a visualitzar i analitzar el codi i així navegar-hi.
+- **Diagrames:** aquest programa compta amb diagrames que t'ajuden a visualitzar i analitzar el codi i així navegar-hi.
 
 ![image](https://user-images.githubusercontent.com/114908591/201732512-09456509-e4bd-4b73-8164-6b5d969f0692.png)
 
--**Live templates:** només cal escriure una abreviatura per inserir ràpidament construccions de codi.
+- **Live templates:** només cal escriure una abreviatura per inserir ràpidament construccions de codi.
 
 ![image](https://user-images.githubusercontent.com/114908591/201733115-d09d313b-9db6-43ac-be4b-9f6be36ea92b.png)
 
--**Refactorització en tot el projecte:** permet actualitzar el codi de manera segura i eficaç, simplificant-lo i fent-lo més llegible i fàcil de mantenir.
+- **Refactorització en tot el projecte:** permet actualitzar el codi de manera segura i eficaç, simplificant-lo i fent-lo més llegible i fàcil de mantenir.
 
 ![image](https://user-images.githubusercontent.com/114908591/201733757-3e02977b-10d4-452c-af3a-e1373cdeb9f1.png)
 
